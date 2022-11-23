@@ -30,4 +30,14 @@ This is basically a brain dump so when i burn out my D1 (or loose it) i have a r
 ![DIY_D1_CirDia](https://user-images.githubusercontent.com/24452466/203516725-08157f55-f9ad-4e87-b229-1b6f191fd0e0.jpg)
 #### Build circuit
 ![DIY_D1_BB](https://user-images.githubusercontent.com/24452466/203517788-32b3008c-3aee-4b8b-b5c2-204810a432ca.jpg)
-Note: Didnt take a pic before i had already completed the `Code` serction. 
+Note: Didnt take a pic before i had already completed `Arduino IDE/Code` and tested i could write a project. 
+
+### Arduino IDE/Code
+#### Additional Board Manager ULRs (Spacehuhn & HakCat)
+https://raw.githubusercontent.com/SpacehuhnTech/arduino/main/package_spacehuhn_index.json
+https://arduino.esp8266.com/stable/package_esp8266com_index.json
+#### Library dependencies (oLED Driver)
+https://github.com/ThingPulse/esp8266-oled-ssd1306
+
+### Prototyping
+#### Draw layout 
