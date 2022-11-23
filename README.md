@@ -27,7 +27,7 @@ This is basically a brain dump so when i burn out my D1 (or loose it) i have a r
 
 ### Breadboarding
 #### Draw out circuit
-![DIY_D1_CirDia](https://user-images.githubusercontent.com/24452466/203516725-08157f55-f9ad-4e87-b229-1b6f191fd0e0.jpg)
+![DIY_D1_CirDia](https://user-images.githubusercontent.com/24452466/203536504-212c60fc-d23e-4440-aa77-477c2ff474e7.jpg)
 #### Build circuit
 ![DIY_D1_BB](https://user-images.githubusercontent.com/24452466/203517788-32b3008c-3aee-4b8b-b5c2-204810a432ca.jpg)
 Note: Didnt take a pic before i had already completed `Arduino IDE/Code` and tested i could write a project. 
@@ -40,4 +40,18 @@ https://arduino.esp8266.com/stable/package_esp8266com_index.json
 https://github.com/ThingPulse/esp8266-oled-ssd1306
 
 ### Prototyping
-#### Draw layout 
+#### Draw layout
+![DIY_D1_PerfDraw](https://user-images.githubusercontent.com/24452466/203536148-29623a71-be3d-4a57-ba96-a4ce66bb36f9.jpg)
+#### Build Proto
+![DIY_D1_ProtoBck](https://user-images.githubusercontent.com/24452466/203536230-6c0f135e-e909-4db1-a78a-3649404cb0ef.jpg)
+![DIY_D1_ProtoFnt](https://user-images.githubusercontent.com/24452466/203536305-bb78bc47-376f-4969-a4b6-c246a544cd7c.jpg)
+#### Notes
+- I removed one of the buttons (went to 3 from 4) to make the profile as small as possible
+- I used some single GPiO pins as stand-offs to support the I2C (indicated by SO in the drawing)
+- I did not have a neopixel LED but didnt end up having space for one either so left it off
+
+## Props
+https://github.com/HakCat-Tech
+https://youtu.be/_snjqM2Lu70
+https://github.com/ThingPulse
+https://github.com/SpacehuhnTech
