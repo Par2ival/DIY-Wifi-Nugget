@@ -2,7 +2,7 @@
 This is a DIY version of a "Cut Down" Wifi-Nugget based on the Youtube series "https://youtu.be/_snjqM2Lu70" by Alex Lynd. 
 
 ## The Story
-This is basically a brain dump so when i burn out my D1 (or loose it) i have a ref guide to come back to. Please note none of my work is original and is just a combination of various legend's and their YouTube/Git repositories.
+This is basically a brain dump so when i burn out my D1 (or loose it) i have a ref guide to come back to. Please note none of my work is original and is just a combination of various legend's and their YouTube/Git repositories. (Props at the End)
 
 ## The Detail
 
@@ -24,3 +24,10 @@ This is basically a brain dump so when i burn out my D1 (or loose it) i have a r
   
   1x perfboard ($5.50)
   https://www.jaycar.com.au/pc-boards-vero-type-strip-95mm-x-75mm/p/HP9540
+
+### Breadboarding
+#### Draw out circuit
+![DIY_D1_CirDia](https://user-images.githubusercontent.com/24452466/203516725-08157f55-f9ad-4e87-b229-1b6f191fd0e0.jpg)
+#### Build circuit
+![DIY_D1_BB](https://user-images.githubusercontent.com/24452466/203517788-32b3008c-3aee-4b8b-b5c2-204810a432ca.jpg)
+Note: Didnt take a pic before i had already completed the `Code` serction. 
