@@ -46,7 +46,7 @@ https://github.com/ThingPulse/esp8266-oled-ssd1306
 ![DIY_D1_ProtoBck](https://user-images.githubusercontent.com/24452466/203536230-6c0f135e-e909-4db1-a78a-3649404cb0ef.jpg)
 ![DIY_D1_ProtoFnt](https://user-images.githubusercontent.com/24452466/203536305-bb78bc47-376f-4969-a4b6-c246a544cd7c.jpg)
 #### Notes
-- I removed one of the buttons (went to 3 from 4) to make the profile as small as possible
+- I removed one of the buttons (went to 4 from 3) to make the profile as small as possible
 - I used some single GPiO pins as stand-offs to support the I2C (indicated by SO in the drawing)
 - I did not have a neopixel LED but didnt end up having space for one either so left it off
 
