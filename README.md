@@ -52,6 +52,9 @@ https://github.com/ThingPulse/esp8266-oled-ssd1306
 
 ## Props
 https://github.com/HakCat-Tech
-https://youtu.be/_snjqM2Lu70
+
+https://www.youtube.com/@hak5
+
 https://github.com/ThingPulse
+
 https://github.com/SpacehuhnTech
