@@ -1,5 +1,5 @@
 # DIY-Wifi-Nugget
-This is a DIY version of a "Cut Down" Wifi-Nugget based on the Youtube series "https://youtu.be/_snjqM2Lu70" by Alex Lynd. 
+This is a DIY version of a Cut Down less cute "Wifi-Nugget" based on the Youtube series "https://youtu.be/_snjqM2Lu70" by Alex Lynd. 
 
 ## The Story
 This is basically a brain dump so when i burn out my D1 (or loose it) i have a ref guide to come back to. Please note none of my work is original and is just a combination of various legend's and their YouTube/Git repositories. (Props at the End)
